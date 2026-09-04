@@ -377,7 +377,7 @@ export default function MaisonViva() {
             </div>
           </div>
           <div className="footer-bottom">
-            <div>© 2027 Maison Viva. All Rights Reserved.</div>
+            <div>© 2027 Maison Velour. All Rights Reserved.</div>
             <div className="links">
               <a href="#">Privacy Policy</a>
               <a href="#">Terms &amp; Conditions</a>
