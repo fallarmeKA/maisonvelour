@@ -150,7 +150,7 @@ export default function MaisonViva() {
   return (
     <div className="mv-root">
       <header className={scrolled ? "scrolled" : ""}>
-        <div className="logo">MAISON VIVA</div>
+        <div className="logo">MAISON VELOUR</div>
         <nav>
           <ul>
             <li><a href="#collection">Collections</a></li>
@@ -168,7 +168,7 @@ export default function MaisonViva() {
           <div>
             <div className="eyebrow hero-eyebrow">Chromatica — Spring/Summer 2027</div>
             <h1>Fashion should feel like joy, not restraint.</h1>
-            <p className="sub">MAISON VIVA rejects the beige consensus. Every piece is hand-dyed in small batches, cut for movement, and built to be noticed — not blend in.</p>
+            <p className="sub">MAISON VELOUR rejects the beige consensus. Every piece is hand-dyed in small batches, cut for movement, and built to be noticed — not blend in.</p>
             <a href="#collection" className="hero-cta">Shop Chromatica →</a>
           </div>
           <ColorWipe color="var(--gold)">
@@ -348,7 +348,7 @@ export default function MaisonViva() {
         <div className="wrap">
           <div className="footer-grid">
             <div>
-              <div className="logo">MAISON VIVA</div>
+              <div className="logo">MAISON VELOUR</div>
               <p>A house built on colour, craft, and the refusal to disappear. Barcelona, since 2019.</p>
             </div>
             <div>
